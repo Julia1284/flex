@@ -1,0 +1,22 @@
+.block__row {
+    border:10px solid #ece89d;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.block__element__1{
+    border:5px solid #5e5373;
+    flex:0 1 100%;
+}
+.block__element__2{
+    border:5px solid #5e5373;
+    flex:1 1 49%;
+}
+.block__element__3{
+    border:5px solid #5e5373;
+    flex:0 1 49%;
+}
+
+.block__content{
+    background-color: #18b5a4;
+}
